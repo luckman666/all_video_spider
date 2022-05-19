@@ -1,6 +1,6 @@
 demo URL:
 
-https://kkit.itboge.com/download
+https://kkit.itboge.com
 
 Kkit video downloader is a free online service that helps you to download Kkit videos without watermark. You can access it on desktop PCs, smart phones (Android, iPhone), iPad and tablets. and save a video as a high-definition MP4 of the best quality.
 Go to Youtube/Twitter/bilibili/pipix/douyin/Other app or website, copy a video URL, and paste it to the above input box. Download a video of no watermark just with a few mouse clicks. The service is free, and imposes no limit on number of downloads. It is easy and safe since no software installation and registration are required
